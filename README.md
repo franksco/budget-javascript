@@ -1,4 +1,4 @@
-# Got Questions
+# BUDget
 
 A Web app where you can log in using facebook, set a budget for you monthly alotment for cannabis, input transactions and track your budget.
 
